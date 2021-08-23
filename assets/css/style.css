@@ -639,10 +639,10 @@ section {
   padding-bottom: 10px;
 }
 
-.courses .course-content h4 {
+.courses .course-content .enroll {
   font-size: 14px;
   background: #FFB317;
-  padding: 7px 14px;
+  padding: 4px 10px;
   border-radius: 3px;
   color: #fff;
   margin: 0;
