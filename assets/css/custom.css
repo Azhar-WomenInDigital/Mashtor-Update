@@ -1,4 +1,25 @@
 /* Header Css */
+.top-header{
+    background-color: #FFB317;
+}
+.top-social{
+    padding-left: 40px;
+}
+.top-social a{
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.top-social a:hover{
+    color: rgb(216, 216, 216);
+}
+.network span{
+    color: rgb(255, 255, 255);
+}
+.account img{
+    border: 1px solid white;
+    border-radius: 50%;
+}
 .sticky {
     position: fixed;
     top: 0;
